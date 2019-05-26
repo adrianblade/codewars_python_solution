@@ -6,5 +6,5 @@
 ## My Solutions
 | kyu | Codewars Kate | My Solutions |
 | --- | --- | --- |
-| 4 | [Square into Square](https://www.codewars.com/kata/square-into-squares-protect-trees) | [square_into_square.py](https://github.com/adrianblade/codewars_python_solution/blob/master/square_into_square.py) |
+| 4 | [Square into Square](https://www.codewars.com/kata/square-into-squares-protect-trees) | [square_into_square.py](https://github.com/adrianblade/codewars_python_solution/blob/master/4kyu/square_into_square/square_into_square.py) |
 
